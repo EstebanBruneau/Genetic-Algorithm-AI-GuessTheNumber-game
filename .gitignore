@@ -1,0 +1,4 @@
+# exclude all .csv files except for names.csv
+*.csv
+!names.csv
+__pycache__/
